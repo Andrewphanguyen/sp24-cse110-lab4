@@ -36,3 +36,5 @@ F. true === Boolean(2) true bec Boolean(2) for is true for non zero numbers
 15.  "==" first does any type conversions on the values before being compared and "===" does not do type conversion first.
 
 16.  in javascript file
+17.  it will return [2,4,6] because in the doSomething functionn it doubles every inputted value in the array. And so the modifyArray function will call doSomething function in its parameters under the name callback and so the values will be pushed into the new array using the input array and once the function is over would output [2,4,6]
+18.  
